@@ -1,0 +1,13 @@
+.body{
+    background-color: yellowgreen;
+}
+
+.customer_list{
+    background-color: darkgreen;
+    color: azure;
+   text-align: center;
+    border: solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 100px;
+}
